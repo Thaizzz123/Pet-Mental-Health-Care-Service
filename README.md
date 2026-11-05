@@ -1,30 +1,27 @@
-# PAW HAVEN — Dịch vụ Chăm sóc Sức khỏe Tinh thần Thú cưng
+# PAW HAVEN — Nền tảng Chăm sóc Sức khỏe Tinh thần & Hành vi Thú cưng Đô thị
 
 > **They Feel More Than They Can Tell.**  
-> *Vì sức khỏe tinh thần của thú cưng cũng xứng đáng được thấu hiểu và chăm sóc.*
+> *Bởi sức khỏe tinh thần của thú cưng cũng xứng đáng được trân trọng.*
 
-Website trình diễn startup học thuật phục vụ buổi thuyết trình **Shark Tank Debate — Học phần Quản trị Marketing**:
+Hệ sinh thái trải nghiệm số của **PAW HAVEN**:
 
-- **PAW HAVEN:** Trang thương hiệu, sứ mệnh, 3 nhóm liệu pháp hỗ trợ, quy trình chăm sóc 6 bước, bảng gói dịch vụ (Discovery / Signature / Elite), chiến lược STP & 4P và Đặt lịch Tư vấn (Demo).
-- **PAW UNIVERSE:** Trung tâm chăm sóc 3D mặt cắt kiến trúc gồm 6 phân khu tương tác kèm sơ đồ 2D mượt trên di động.
-- **PAW QUEST:** Trò chơi cốt truyện tương tác 4 chặng giáo dục người nuôi về quan sát hành vi và lựa chọn hướng chăm sóc an toàn.
-- **INVESTOR HUB:** Tóm tắt mô hình kinh doanh, khung TAM/SAM/SOM chờ xác minh, Mô phỏng Tài chính tương tác thời gian thực và Đề xuất Gọi vốn & Quản trị Rủi ro.
+- **PAW HAVEN:** Trang thương hiệu, sứ mệnh, 3 nhóm liệu pháp hỗ trợ cá nhân hóa (Massage hỗ trợ thư giãn, Thảo mộc có kiểm duyệt, Trải nghiệm âm thanh dịu nhẹ), quy trình chăm sóc 6 bước, bảng giá gói dịch vụ (`Discovery 690.000 ₫` · `Signature 3.480.000 ₫` · `Elite 6.480.000 ₫`), chiến lược STP & 4P và Đặt lịch Tư vấn.
+- **PAW UNIVERSE:** Trung tâm chăm sóc 3D mặt cắt kiến trúc gồm 6 phân khu tương tác tự do (xoay 360°, kéo ngang/dọc, thu phóng sát nội thất) kèm sơ đồ 2D tối ưu trên di động.
+- **PAW QUEST:** Trò chơi cốt truyện tương tác 4 chặng giúp người nuôi nhận diện tín hiệu hành vi và lựa chọn hướng chăm sóc có trách nhiệm.
+- **INVESTOR HUB:** Tóm tắt điều hành, phân tích quy mô thị trường TAM/SAM/SOM, Mô phỏng Kinh tế Đơn vị & Điểm Hòa vốn tương tác thời gian thực, Phương án Gọi vốn Seed Round và Quản trị Rủi ro.
 
 ---
 
-## Cách bật GitHub Pages trực tiếp từ bộ file phẳng này
+## Triển khai trên GitHub Pages
 
-Toàn bộ các file trong repository này đã được đóng gói phẳng ở cùng một cấp thư mục gốc (`root`) kèm `HashRouter` và đường dẫn tương đối `./`:
+Toàn bộ các file trong repository này được đóng gói phẳng ở cùng một cấp thư mục gốc (`root`) với đường dẫn tương đối `./`:
 
-1. Mở tab **Settings** của repository trên GitHub → chọn mục **Pages** ở cột bên trái.
+1. Mở tab **Settings** của repository trên GitHub → chọn **Pages** ở thanh bên trái.
 2. Tại **Build and deployment** → **Source**, chọn **Deploy from a branch**.
-3. Tại **Branch**, chọn nhánh `main` (hoặc `master`), thư mục `/ (root)` → bấm **Save**.
-4. Đợi khoảng 30–60 giây, tải lại trang **Settings → Pages** để nhận đường link website chính thức.
+3. Chọn nhánh `main`, thư mục `/ (root)` → bấm **Save**.
 
 ---
 
-## Lưu ý Y khoa & Học thuật
+## Nguyên tắc Phối hợp Chuyên môn Thú y
 
-- **Giới hạn Y khoa:** PAW HAVEN là mô hình startup học thuật. Các phương pháp hỗ trợ (Massage thư giãn, Thảo mộc có kiểm duyệt, Không gian âm thanh dịu) cần được đánh giá theo từng cá thể và phối hợp bác sĩ thú y, không thay thế chẩn đoán hay điều trị thú y.
-- **Dữ liệu Demo:** Biểu mẫu đặt lịch chỉ lưu tạm trên `LocalStorage` trình duyệt hiện tại. Các thông số trong `Mô phỏng Tài chính` mang nhãn `GIẢ ĐỊNH MINH HỌA (DEMO) — CHƯA PHẢI KẾT QUẢ THỰC TẾ`.
-- **Nguồn ảnh:** Xem chi tiết tác giả Unsplash tại [ASSET_CREDITS.md](./ASSET_CREDITS.md).
+PAW HAVEN cung cấp chương trình chăm sóc hỗ trợ sức khỏe tinh thần và theo dõi hành vi cá nhân hóa phối hợp cùng bác sĩ thú y đối tác; không thay thế khám cấp cứu hoặc điều trị bệnh lý nội/ngoại khoa thú y. Nguồn ảnh chi tiết xem tại [ASSET_CREDITS.md](./ASSET_CREDITS.md).
