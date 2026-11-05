@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-labelledby="title desc">
+  <title id="title">PAW HAVEN logo</title>
+  <desc id="desc">Forest green paw symbol paired with the PAW HAVEN wordmark.</desc>
+  <g fill="none" stroke="#203D32" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 77c-19 0-31 13-31 28 0 12 9 18 20 15 8-2 13-8 22-8s14 6 22 8c11 3 20-3 20-15 0-15-12-28-31-28-8 0-14 4-21 4s-13-4-21-4z" fill="#B9C7AD"/>
+    <ellipse cx="32" cy="43" rx="10" ry="14" transform="rotate(-24 32 43)" fill="#B9C7AD"/>
+    <ellipse cx="57" cy="31" rx="10" ry="14" transform="rotate(-5 57 31)" fill="#B9C7AD"/>
+    <ellipse cx="82" cy="39" rx="10" ry="14" transform="rotate(18 82 39)" fill="#B9C7AD"/>
+    <path d="M58 88c-5-8-9-16-8-23 1-6 8-9 13-4 5 5 5 16 1 27" fill="#F5F1E8" stroke="#203D32" stroke-width="3"/>
+  </g>
+  <text x="132" y="67" fill="#203D32" font-family="Georgia,serif" font-size="49" letter-spacing="1.5">PAW HAVEN</text>
+  <text x="135" y="96" fill="#66736A" font-family="Arial,sans-serif" font-size="13" letter-spacing="3.2">PET DEPRESSION CARE EXPERIENCE</text>
+</svg>
