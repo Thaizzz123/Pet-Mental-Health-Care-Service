@@ -5,10 +5,10 @@
 
 Hệ sinh thái trải nghiệm số của **PAW HAVEN**:
 
-- **PAW HAVEN:** Trang thương hiệu, sứ mệnh, 3 nhóm liệu pháp hỗ trợ cá nhân hóa (Massage hỗ trợ thư giãn, Thảo mộc có kiểm duyệt, Trải nghiệm âm thanh dịu nhẹ), quy trình chăm sóc 6 bước, bảng giá gói dịch vụ (`Discovery 690.000 ₫` · `Signature 3.480.000 ₫` · `Elite 6.480.000 ₫`), chiến lược STP & 4P và Đặt lịch Tư vấn.
+- **PAW HAVEN:** Trang thương hiệu dành cho khách hàng gồm sứ mệnh, 3 nhóm liệu pháp hỗ trợ cá nhân hóa (Massage hỗ trợ thư giãn, Thảo mộc có kiểm duyệt, Trải nghiệm âm thanh dịu nhẹ), quy trình chăm sóc 6 bước, bảng giá gói dịch vụ (`Discovery 690.000 ₫` · `Signature 3.480.000 ₫` · `Elite 6.480.000 ₫`) và Đặt lịch Tư vấn.
 - **PAW UNIVERSE:** Trung tâm chăm sóc 3D mặt cắt kiến trúc gồm 6 phân khu tương tác tự do (xoay 360°, kéo ngang/dọc, thu phóng sát nội thất) kèm sơ đồ 2D tối ưu trên di động.
 - **PAW QUEST:** Trò chơi cốt truyện tương tác 4 chặng giúp người nuôi nhận diện tín hiệu hành vi và lựa chọn hướng chăm sóc có trách nhiệm.
-- **INVESTOR HUB:** Tóm tắt điều hành, phân tích quy mô thị trường TAM/SAM/SOM, Mô phỏng Kinh tế Đơn vị & Điểm Hòa vốn tương tác thời gian thực, Phương án Gọi vốn Seed Round và Quản trị Rủi ro.
+- **INVESTOR HUB:** Chiến lược STP & 4P tương tác, Tóm tắt điều hành, phân tích quy mô thị trường TAM/SAM/SOM, Mô phỏng Kinh tế Đơn vị & Điểm Hòa vốn thời gian thực, Phương án Gọi vốn Seed Round và Quản trị Rủi ro.
 
 ---
 
