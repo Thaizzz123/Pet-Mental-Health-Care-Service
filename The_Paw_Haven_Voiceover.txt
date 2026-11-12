@@ -1,0 +1,77 @@
+# THE PAW HAVEN — 120-SECOND BRAND INTRODUCTION VOICE-OVER SCRIPT
+# Voice Configuration: Continuous Storytelling Male Voice with Contextual Audio Emotion Tags
+# Note: Emotion tags in square brackets [...] direct vocal delivery and are never spoken aloud or shown in subtitles.
+
+[CLIP 01 — 01 · TÍN HIỆU THẦM LẶNG: Những nỗi lo chẳng thể cất thành lời | 00s – 10s]
+[whispering, thoughtful] (0.5s – 2.4s)
+"Có những nỗi lo chẳng thể cất thành lời."
+[whispering, sad] (2.9s – 6.5s)
+"Một chú chó nằm im chờ bên cửa, một chú mèo lặng lẽ bên khung cửa sổ."
+[thoughtful] (6.7s – 9.7s)
+"Đôi khi, sự im lặng ấy chính là tín hiệu cần được lắng nghe."
+
+[CLIP 02 — 02 · LÝ DO HÌNH THÀNH: Lắng nghe cảm xúc thú cưng đô thị | 10s – 20s]
+[thoughtful, warm] (10.3s – 15.4s)
+"Giữa nhịp sống đô thị bận rộn, nhiều thú cưng ở nhà một mình suốt nhiều giờ và dần thu mình vì căng thẳng."
+[warm, reassuring] (16.1s – 19.7s)
+"Đó chính là lý do PAW HAVEN ra đời — để lắng nghe những cảm xúc thầm lặng ấy."
+
+[CLIP 03 — 02 · SỨ MỆNH PAW HAVEN: Đồng hành cùng sức khỏe tinh thần thú cưng | 20s – 30s]
+[warm, confident] (20.3s – 25.3s)
+"Không chỉ chăm sóc bên ngoài, sứ mệnh của PAW HAVEN là đồng hành cùng sức khỏe tinh thần thú cưng."
+[reassuring] (25.7s – 29.7s)
+"Chúng tôi giúp người nuôi thấu hiểu ngôn ngữ cơ thể để tạo nên môi trường sống bình yên nhất."
+
+[CLIP 04 — 03 · WEBSITE PAW HAVEN: Sứ mệnh & Nhận diện 6 dấu hiệu hành vi | 30s – 40s]
+[engaging, warm] (30.2s – 35.3s)
+"Bởi tụi nhỏ cảm nhận nhiều hơn những gì có thể nói, hành trình ấy bắt đầu ngay trên website PAW HAVEN."
+[curious, clear] (35.5s – 39.8s)
+"Tại mục Sứ mệnh, bạn có thể nhận diện những thay đổi hành vi rất nhỏ ở nhà mà ta dễ bỏ qua."
+
+[CLIP 05 — 03 · KHÁM PHÁ TRÊN WEB: Liệu pháp · Quy trình · 3D · PAW QUEST · Đặt lịch | 40s – 50s]
+[engaging, confident] (40.2s – 45.4s)
+"Tiếp đó, trang web giới thiệu trực quan ba nhóm liệu pháp, quy trình sáu bước và mô hình không gian ba chiều."
+[playful, upbeat] (46.0s – 49.8s)
+"Cùng trò chơi tương tác PAW QUEST, các gói dịch vụ và biểu mẫu đặt lịch bản demo."
+
+[CLIP 06 — 04 · MASSAGE HỖ TRỢ THƯ GIÃN: Tôn trọng sự tự nguyện · Dừng ngay khi bé khó chịu | 50s – 60s]
+[calm, reassuring] (50.3s – 54.6s)
+"Đi sâu vào ba phương pháp hỗ trợ, mở đầu là liệu pháp massage thư giãn nhẹ nhàng trên đệm sàn thấp."
+[reassuring, warm] (54.9s – 59.7s)
+"Mọi thao tác đều tôn trọng sự tự nguyện, luôn quan sát phản ứng và dừng ngay nếu bé chưa thoải mái."
+
+[CLIP 07 — 04 · HỖ TRỢ NGUỒN GỐC THỰC VẬT: 4 bước kiểm duyệt an toàn cùng Bác sĩ Thú y | 60s – 70s]
+[confident, measured] (60.3s – 64.5s)
+"Thứ hai là hỗ trợ bằng các sản phẩm có nguồn gốc thực vật, với thành phần minh bạch và an toàn."
+[confident] (64.8s – 69.8s)
+"Mỗi sản phẩm đều qua bốn bước kiểm duyệt: phân tách riêng chó mèo, rà soát tương tác thuốc và do bác sĩ thú y phê duyệt."
+
+[CLIP 08 — 04 · ÂM THANH DỊU NHẸ THƯ GIÃN: Phòng tiêu âm mở lối tự do · Sàng lọc thể chất trước | 70s – 80s]
+[calm, soothing] (70.3s – 74.8s)
+"Thứ ba là dùng âm thanh dịu nhẹ trong phòng tiêu âm có lối đi mở, giúp chó mèo thả lỏng và thư giãn."
+[reassuring, serious] (75.1s – 79.8s)
+"Mọi bé đều được sàng lọc thể chất trước tiên, bởi dịch vụ chỉ hỗ trợ tinh thần chứ không thay thế điều trị thú y."
+
+[CLIP 09 — 05 · KHÔNG GIAN 3D PAW UNIVERSE: Mô hình 3D trực quan với 6 phòng chức năng | 80s – 90s]
+[curious, inviting] (80.3s – 84.6s)
+"Trên mục PAW UNIVERSE, mô hình không gian ba chiều tái hiện trực quan sáu phòng chức năng:"
+[confident] (84.9s – 89.8s)
+"sảnh đón tĩnh tại, phòng đánh giá hành vi, phòng massage, phòng thảo mộc, phòng âm thanh và khu vận động trí tuệ."
+
+[CLIP 10 — 06 · QUY TRÌNH CHĂM SÓC 6 BƯỚC: Liệu trình cá nhân hóa dành riêng cho mỗi bé | 90s – 100s]
+[confident, measured] (90.3s – 96.3s)
+"Mọi buổi hẹn đều theo quy trình sáu bước: tiếp nhận, đánh giá thú y, lập kế hoạch, chăm sóc, theo dõi và đồng hành tại nhà."
+[warm, confident] (96.6s – 99.7s)
+"Tất cả tạo nên một liệu trình cá nhân hóa dành riêng cho mỗi bé."
+
+[CLIP 11 — 07 · CHIẾN DỊCH QUẢNG CÁO: Listen to Their Silence & 3 chiến dịch dự kiến | 100s – 110s]
+[upbeat, hopeful] (100.3s – 105.3s)
+"Về truyền thông, chúng tôi đang chạy chiến dịch đầu tiên mang tên Listen to Their Silence, kể về những tín hiệu nơi góc nhà."
+[upbeat, confident] (105.6s – 109.8s)
+"Dự kiến sắp tới sẽ ra mắt thêm các chiến dịch như Behind the Closed Door, The 528Hz Lullaby và Touch Without Rush."
+
+[CLIP 12 — 08 · THE PAW HAVEN: Nơi mọi bước chân nhỏ đều tìm thấy sự bình yên | 110s – 120s]
+[warm, heartfelt] (110.3s – 115.9s)
+"PAW HAVEN không hứa xóa bỏ mọi nỗi lo ngay lập tức, nhưng luôn chọn lắng nghe và tôn trọng từng cá tính nhỏ."
+[warm, proud] (116.3s – 119.6s)
+"PAW HAVEN — nơi mọi bước chân nhỏ đều tìm thấy sự bình yên."
